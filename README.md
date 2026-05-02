@@ -1,11 +1,13 @@
 # DFG Empirical Programme — Integrated Submission Package
 
-**Version:** v1.0 (May 2026)
+**Version:** v1.1 (May 2026, citation-patch)
 **Author:** Seol, Bin (Independent Researcher, ORCID 0009-0006-9530-4497)
 
 ---
 
 ## Executive Summary
+
+**v1.1 citation-patch:** All papers received a systematic citation audit. Paper A updated to v3.2, Paper B-H4 to v2.2, Paper B-H5 to v2.2, and Paper B-Topology to v1.2. References sections expanded with missing external citations (Scheffer, Dakos, Battiston, Sornette, Reinhart, Fiedler, Albert, Watts, Mohar, etc.). Self-citations formatted with "Working paper" tags.
 
 The Deficit-Fractal Governance (DFG) framework proposes that coordination systems near governance criticality exhibit a bundle of recurring empirical signatures: cascade size distributions with characteristic exponents, logarithmic hierarchy scaling, capacity-limited module sizes, critical slowing down before transitions, and spectral-recovery relationships. This submission package presents the first systematic empirical programme testing these predictions across multiple scales, substrates, and observables.
 
@@ -84,7 +86,7 @@ A prediction family is retired within a scale-substrate category ONLY when: (a) 
 ### Six Located Regimes plus One Cross-Cell Consistency Signal
 
 **1. H4-β: Substrate-Matched Financial Critical Slowing Down**
-*(Paper B-H4, Document 03)*
+*(Paper B-H4 v2.2, Document 03)*
 
 Seven financial crises (1987–2020) tested against 13 source series / 18 observable transforms across US, EU, and Chinese substrate regions. Under substrate-matching (credit-crisis indicators for credit crises, sovereign-stress indicators for sovereign crises, FX indicators for EM crises):
 
@@ -94,7 +96,7 @@ Seven financial crises (1987–2020) tested against 13 source series / 18 observ
 - **Key insight:** Financial CSD is not a universal one-indicator warning law; it is most reliably detectable when the stress observable's channel matches the crisis's primary substrate
 
 **2. H5-γ: Jacobian Spectral-Radius Recovery Prediction**
-*(Paper B-H5, Document 04)*
+*(Paper B-H5 v2.2, Document 04)*
 
 The recovery-time reading of H5 is a dynamical-system-recovery prediction (Jacobian λ₁), not a graph-topological prediction (Laplacian λ₂). Tested on synthetic linear/non-normal systems and real meso-neural cortical culture (DANDI:001611):
 
@@ -104,7 +106,7 @@ The recovery-time reading of H5 is a dynamical-system-recovery prediction (Jacob
 - **H5-ζ (K = D/λ₁):** Definition locked with two complementary estimators; real-substrate D estimator pending
 
 **3. H5-α/β Reframed: λ₂ as Objective-Dependent Connectivity Predictor**
-*(Paper B-Topology, Document 05)*
+*(Paper B-Topology v1.2, Document 05)*
 
 Graph-Laplacian λ₂ does NOT predict dynamical recovery time (original H5-α/β framing). λ₂ measures structural connectivity strength, with objective-dependent consequences:
 
